@@ -1,0 +1,101 @@
+event_id,event_name,event_cause_id,event_cause,event_city_id,event_city,event_lat,event_lon,event_state,event_zip
+30000,event_0,16,Utility Assistance,103,New York Mills,43.099998,-75.290001,NY,13417
+30001,event_1,13,Veterans and Military,112,San Francisco,37.779999,-122.419998,CA,94101
+30002,event_2,14,Food,106,North Chicago,42.330002,-87.860001,IL,60064
+30003,event_3,14,Food,101,West New York,40.790001,-74.010002,NJ,7093
+30004,event_4,7,Health & Wellbeing,115,Gainesville,29.65,82.32,FL,32608
+30005,event_5,17,Employment,101,West New York,40.790001,-74.010002,NJ,7093
+30006,event_6,17,Employment,114,Baltimore,39.29,76.61,MD,21201
+30007,event_7,15,Housing and Homeless,108,Chicago Heights,41.509998,-87.610001,IL,60411
+30008,event_8,9,Sports & Recreation,106,North Chicago,42.330002,-87.860001,IL,60064
+30009,event_9,10,Technical education,115,Gainesville,29.65,82.32,FL,32608
+30010,event_10,9,Sports & Recreation,107,West Chicago,41.889999,-88.199997,IL,60185
+30011,event_11,11,Children and Family,105,New York Mills,46.689999,-95.349998,MN,56567
+30012,event_12,10,Technical education,113,Chicago Park,39.16,-120.959999,CA,95712
+30013,event_13,13,Veterans and Military,102,New York,40.75,-73.989998,NY,10001
+30014,event_14,4,Family wellness,114,Baltimore,39.29,76.61,MD,21201
+30015,event_15,19,Senior citizens,111,South San Francisco,37.650002,-122.43,CA,94080
+30016,event_16,12,Substance Misuse,109,Chicago Ridge,41.700001,-87.779999,IL,60415
+30017,event_17,2,Career & Business,108,Chicago Heights,41.509998,-87.610001,IL,60411
+30018,event_18,5,Education & Learning,105,New York Mills,46.689999,-95.349998,MN,56567
+30019,event_19,9,Sports & Recreation,101,West New York,40.790001,-74.010002,NJ,7093
+30020,event_20,9,Sports & Recreation,102,New York,40.75,-73.989998,NY,10001
+30021,event_21,1,Arts & Culture,106,North Chicago,42.330002,-87.860001,IL,60064
+30022,event_22,10,Technical education,113,Chicago Park,39.16,-120.959999,CA,95712
+30023,event_23,17,Employment,112,San Francisco,37.779999,-122.419998,CA,94101
+30024,event_24,4,Family wellness,105,New York Mills,46.689999,-95.349998,MN,56567
+30025,event_25,15,Housing and Homeless,109,Chicago Ridge,41.700001,-87.779999,IL,60415
+30026,event_26,18,Legal and Tax assistance,111,South San Francisco,37.650002,-122.43,CA,94080
+30027,event_27,1,Arts & Culture,104,East Chicago,41.639999,-87.459999,IN,46312
+30028,event_28,9,Sports & Recreation,112,San Francisco,37.779999,-122.419998,CA,94101
+30029,event_29,19,Senior citizens,115,Gainesville,29.65,82.32,FL,32608
+30030,event_30,15,Housing and Homeless,103,New York Mills,43.099998,-75.290001,NY,13417
+30031,event_31,11,Children and Family,114,Baltimore,39.29,76.61,MD,21201
+30032,event_32,6,LGBT,108,Chicago Heights,41.509998,-87.610001,IL,60411
+30033,event_33,12,Substance Misuse,111,South San Francisco,37.650002,-122.43,CA,94080
+30034,event_34,4,Family wellness,111,South San Francisco,37.650002,-122.43,CA,94080
+30035,event_35,1,Arts & Culture,106,North Chicago,42.330002,-87.860001,IL,60064
+30036,event_36,13,Veterans and Military,105,New York Mills,46.689999,-95.349998,MN,56567
+30037,event_37,1,Arts & Culture,110,Chicago,41.880001,-87.620003,IL,60290
+30038,event_38,4,Family wellness,107,West Chicago,41.889999,-88.199997,IL,60185
+30039,event_39,1,Arts & Culture,112,San Francisco,37.779999,-122.419998,CA,94101
+30040,event_40,13,Veterans and Military,107,West Chicago,41.889999,-88.199997,IL,60185
+30041,event_41,9,Sports & Recreation,115,Gainesville,29.65,82.32,FL,32608
+30042,event_42,3,Community & Environment,112,San Francisco,37.779999,-122.419998,CA,94101
+30043,event_43,13,Veterans and Military,113,Chicago Park,39.16,-120.959999,CA,95712
+30044,event_44,5,Education & Learning,104,East Chicago,41.639999,-87.459999,IN,46312
+30045,event_45,12,Substance Misuse,115,Gainesville,29.65,82.32,FL,32608
+30046,event_46,2,Career & Business,102,New York,40.75,-73.989998,NY,10001
+30047,event_47,11,Children and Family,111,South San Francisco,37.650002,-122.43,CA,94080
+30048,event_48,20,People with Disabilities,110,Chicago,41.880001,-87.620003,IL,60290
+30049,event_49,2,Career & Business,108,Chicago Heights,41.509998,-87.610001,IL,60411
+30050,event_50,4,Family wellness,107,West Chicago,41.889999,-88.199997,IL,60185
+30051,event_51,11,Children and Family,111,South San Francisco,37.650002,-122.43,CA,94080
+30052,event_52,6,LGBT,103,New York Mills,43.099998,-75.290001,NY,13417
+30053,event_53,19,Senior citizens,105,New York Mills,46.689999,-95.349998,MN,56567
+30054,event_54,18,Legal and Tax assistance,113,Chicago Park,39.16,-120.959999,CA,95712
+30055,event_55,19,Senior citizens,102,New York,40.75,-73.989998,NY,10001
+30056,event_56,9,Sports & Recreation,110,Chicago,41.880001,-87.620003,IL,60290
+30057,event_57,13,Veterans and Military,109,Chicago Ridge,41.700001,-87.779999,IL,60415
+30058,event_58,3,Community & Environment,114,Baltimore,39.29,76.61,MD,21201
+30059,event_59,7,Health & Wellbeing,108,Chicago Heights,41.509998,-87.610001,IL,60411
+30060,event_60,9,Sports & Recreation,106,North Chicago,42.330002,-87.860001,IL,60064
+30061,event_61,17,Employment,107,West Chicago,41.889999,-88.199997,IL,60185
+30062,event_62,2,Career & Business,101,West New York,40.790001,-74.010002,NJ,7093
+30063,event_63,6,LGBT,105,New York Mills,46.689999,-95.349998,MN,56567
+30064,event_64,10,Technical education,107,West Chicago,41.889999,-88.199997,IL,60185
+30065,event_65,12,Substance Misuse,108,Chicago Heights,41.509998,-87.610001,IL,60411
+30066,event_66,5,Education & Learning,101,West New York,40.790001,-74.010002,NJ,7093
+30067,event_67,13,Veterans and Military,105,New York Mills,46.689999,-95.349998,MN,56567
+30068,event_68,7,Health & Wellbeing,107,West Chicago,41.889999,-88.199997,IL,60185
+30069,event_69,10,Technical education,105,New York Mills,46.689999,-95.349998,MN,56567
+30070,event_70,4,Family wellness,104,East Chicago,41.639999,-87.459999,IN,46312
+30071,event_71,4,Family wellness,102,New York,40.75,-73.989998,NY,10001
+30072,event_72,17,Employment,111,South San Francisco,37.650002,-122.43,CA,94080
+30073,event_73,5,Education & Learning,102,New York,40.75,-73.989998,NY,10001
+30074,event_74,17,Employment,112,San Francisco,37.779999,-122.419998,CA,94101
+30075,event_75,3,Community & Environment,108,Chicago Heights,41.509998,-87.610001,IL,60411
+30076,event_76,20,People with Disabilities,105,New York Mills,46.689999,-95.349998,MN,56567
+30077,event_77,5,Education & Learning,102,New York,40.75,-73.989998,NY,10001
+30078,event_78,13,Veterans and Military,114,Baltimore,39.29,76.61,MD,21201
+30079,event_79,9,Sports & Recreation,108,Chicago Heights,41.509998,-87.610001,IL,60411
+30080,event_80,11,Children and Family,112,San Francisco,37.779999,-122.419998,CA,94101
+30081,event_81,1,Arts & Culture,109,Chicago Ridge,41.700001,-87.779999,IL,60415
+30082,event_82,19,Senior citizens,102,New York,40.75,-73.989998,NY,10001
+30083,event_83,17,Employment,104,East Chicago,41.639999,-87.459999,IN,46312
+30084,event_84,16,Utility Assistance,111,South San Francisco,37.650002,-122.43,CA,94080
+30085,event_85,12,Substance Misuse,112,San Francisco,37.779999,-122.419998,CA,94101
+30086,event_86,9,Sports & Recreation,103,New York Mills,43.099998,-75.290001,NY,13417
+30087,event_87,9,Sports & Recreation,106,North Chicago,42.330002,-87.860001,IL,60064
+30088,event_88,10,Technical education,113,Chicago Park,39.16,-120.959999,CA,95712
+30089,event_89,3,Community & Environment,103,New York Mills,43.099998,-75.290001,NY,13417
+30090,event_90,15,Housing and Homeless,105,New York Mills,46.689999,-95.349998,MN,56567
+30091,event_91,20,People with Disabilities,104,East Chicago,41.639999,-87.459999,IN,46312
+30092,event_92,4,Family wellness,114,Baltimore,39.29,76.61,MD,21201
+30093,event_93,11,Children and Family,105,New York Mills,46.689999,-95.349998,MN,56567
+30094,event_94,18,Legal and Tax assistance,110,Chicago,41.880001,-87.620003,IL,60290
+30095,event_95,13,Veterans and Military,114,Baltimore,39.29,76.61,MD,21201
+30096,event_96,3,Community & Environment,114,Baltimore,39.29,76.61,MD,21201
+30097,event_97,5,Education & Learning,110,Chicago,41.880001,-87.620003,IL,60290
+30098,event_98,20,People with Disabilities,102,New York,40.75,-73.989998,NY,10001
+30099,event_99,5,Education & Learning,114,Baltimore,39.29,76.61,MD,21201

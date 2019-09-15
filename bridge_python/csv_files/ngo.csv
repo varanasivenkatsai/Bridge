@@ -1,0 +1,101 @@
+ngo_id,ngo_name,ngo_cause_id,ngo_cause,ngo_link,ngo_city_id,ngo_city,ngo_lat,ngo_lon,ngo_state,ngo_zip
+20000,ngo_0,11,Children and Family,www.ngo_0.com,109,Chicago Ridge,41.700001,-87.779999,IL,60415
+20001,ngo_1,1,Arts & Culture,www.ngo_1.com,102,New York,40.75,-73.989998,NY,10001
+20002,ngo_2,19,Senior citizens,www.ngo_2.com,113,Chicago Park,39.16,-120.959999,CA,95712
+20003,ngo_3,9,Sports & Recreation,www.ngo_3.com,104,East Chicago,41.639999,-87.459999,IN,46312
+20004,ngo_4,7,Health & Wellbeing,www.ngo_4.com,105,New York Mills,46.689999,-95.349998,MN,56567
+20005,ngo_5,2,Career & Business,www.ngo_5.com,113,Chicago Park,39.16,-120.959999,CA,95712
+20006,ngo_6,20,People with Disabilities,www.ngo_6.com,108,Chicago Heights,41.509998,-87.610001,IL,60411
+20007,ngo_7,20,People with Disabilities,www.ngo_7.com,104,East Chicago,41.639999,-87.459999,IN,46312
+20008,ngo_8,5,Education & Learning,www.ngo_8.com,104,East Chicago,41.639999,-87.459999,IN,46312
+20009,ngo_9,1,Arts & Culture,www.ngo_9.com,105,New York Mills,46.689999,-95.349998,MN,56567
+20010,ngo_10,14,Food,www.ngo_10.com,102,New York,40.75,-73.989998,NY,10001
+20011,ngo_11,4,Family wellness,www.ngo_11.com,110,Chicago,41.880001,-87.620003,IL,60290
+20012,ngo_12,11,Children and Family,www.ngo_12.com,112,San Francisco,37.779999,-122.419998,CA,94101
+20013,ngo_13,9,Sports & Recreation,www.ngo_13.com,110,Chicago,41.880001,-87.620003,IL,60290
+20014,ngo_14,3,Community & Environment,www.ngo_14.com,113,Chicago Park,39.16,-120.959999,CA,95712
+20015,ngo_15,5,Education & Learning,www.ngo_15.com,114,Baltimore,39.29,76.61,MD,21201
+20016,ngo_16,7,Health & Wellbeing,www.ngo_16.com,103,New York Mills,43.099998,-75.290001,NY,13417
+20017,ngo_17,18,Legal and Tax assistance,www.ngo_17.com,112,San Francisco,37.779999,-122.419998,CA,94101
+20018,ngo_18,13,Veterans and Military,www.ngo_18.com,105,New York Mills,46.689999,-95.349998,MN,56567
+20019,ngo_19,5,Education & Learning,www.ngo_19.com,108,Chicago Heights,41.509998,-87.610001,IL,60411
+20020,ngo_20,6,LGBT,www.ngo_20.com,105,New York Mills,46.689999,-95.349998,MN,56567
+20021,ngo_21,7,Health & Wellbeing,www.ngo_21.com,108,Chicago Heights,41.509998,-87.610001,IL,60411
+20022,ngo_22,3,Community & Environment,www.ngo_22.com,104,East Chicago,41.639999,-87.459999,IN,46312
+20023,ngo_23,5,Education & Learning,www.ngo_23.com,111,South San Francisco,37.650002,-122.43,CA,94080
+20024,ngo_24,6,LGBT,www.ngo_24.com,104,East Chicago,41.639999,-87.459999,IN,46312
+20025,ngo_25,3,Community & Environment,www.ngo_25.com,106,North Chicago,42.330002,-87.860001,IL,60064
+20026,ngo_26,19,Senior citizens,www.ngo_26.com,108,Chicago Heights,41.509998,-87.610001,IL,60411
+20027,ngo_27,2,Career & Business,www.ngo_27.com,115,Gainesville,29.65,82.32,FL,32608
+20028,ngo_28,17,Employment,www.ngo_28.com,108,Chicago Heights,41.509998,-87.610001,IL,60411
+20029,ngo_29,19,Senior citizens,www.ngo_29.com,108,Chicago Heights,41.509998,-87.610001,IL,60411
+20030,ngo_30,15,Housing and Homeless,www.ngo_30.com,113,Chicago Park,39.16,-120.959999,CA,95712
+20031,ngo_31,15,Housing and Homeless,www.ngo_31.com,106,North Chicago,42.330002,-87.860001,IL,60064
+20032,ngo_32,10,Technical education,www.ngo_32.com,114,Baltimore,39.29,76.61,MD,21201
+20033,ngo_33,8,Book Clubs,www.ngo_33.com,102,New York,40.75,-73.989998,NY,10001
+20034,ngo_34,20,People with Disabilities,www.ngo_34.com,109,Chicago Ridge,41.700001,-87.779999,IL,60415
+20035,ngo_35,18,Legal and Tax assistance,www.ngo_35.com,103,New York Mills,43.099998,-75.290001,NY,13417
+20036,ngo_36,19,Senior citizens,www.ngo_36.com,111,South San Francisco,37.650002,-122.43,CA,94080
+20037,ngo_37,9,Sports & Recreation,www.ngo_37.com,110,Chicago,41.880001,-87.620003,IL,60290
+20038,ngo_38,9,Sports & Recreation,www.ngo_38.com,108,Chicago Heights,41.509998,-87.610001,IL,60411
+20039,ngo_39,1,Arts & Culture,www.ngo_39.com,101,West New York,40.790001,-74.010002,NJ,7093
+20040,ngo_40,2,Career & Business,www.ngo_40.com,103,New York Mills,43.099998,-75.290001,NY,13417
+20041,ngo_41,20,People with Disabilities,www.ngo_41.com,112,San Francisco,37.779999,-122.419998,CA,94101
+20042,ngo_42,15,Housing and Homeless,www.ngo_42.com,111,South San Francisco,37.650002,-122.43,CA,94080
+20043,ngo_43,9,Sports & Recreation,www.ngo_43.com,110,Chicago,41.880001,-87.620003,IL,60290
+20044,ngo_44,4,Family wellness,www.ngo_44.com,113,Chicago Park,39.16,-120.959999,CA,95712
+20045,ngo_45,7,Health & Wellbeing,www.ngo_45.com,111,South San Francisco,37.650002,-122.43,CA,94080
+20046,ngo_46,3,Community & Environment,www.ngo_46.com,105,New York Mills,46.689999,-95.349998,MN,56567
+20047,ngo_47,19,Senior citizens,www.ngo_47.com,110,Chicago,41.880001,-87.620003,IL,60290
+20048,ngo_48,2,Career & Business,www.ngo_48.com,106,North Chicago,42.330002,-87.860001,IL,60064
+20049,ngo_49,3,Community & Environment,www.ngo_49.com,106,North Chicago,42.330002,-87.860001,IL,60064
+20050,ngo_50,1,Arts & Culture,www.ngo_50.com,107,West Chicago,41.889999,-88.199997,IL,60185
+20051,ngo_51,13,Veterans and Military,www.ngo_51.com,102,New York,40.75,-73.989998,NY,10001
+20052,ngo_52,17,Employment,www.ngo_52.com,110,Chicago,41.880001,-87.620003,IL,60290
+20053,ngo_53,8,Book Clubs,www.ngo_53.com,101,West New York,40.790001,-74.010002,NJ,7093
+20054,ngo_54,2,Career & Business,www.ngo_54.com,115,Gainesville,29.65,82.32,FL,32608
+20055,ngo_55,4,Family wellness,www.ngo_55.com,103,New York Mills,43.099998,-75.290001,NY,13417
+20056,ngo_56,3,Community & Environment,www.ngo_56.com,106,North Chicago,42.330002,-87.860001,IL,60064
+20057,ngo_57,8,Book Clubs,www.ngo_57.com,102,New York,40.75,-73.989998,NY,10001
+20058,ngo_58,14,Food,www.ngo_58.com,105,New York Mills,46.689999,-95.349998,MN,56567
+20059,ngo_59,3,Community & Environment,www.ngo_59.com,114,Baltimore,39.29,76.61,MD,21201
+20060,ngo_60,5,Education & Learning,www.ngo_60.com,113,Chicago Park,39.16,-120.959999,CA,95712
+20061,ngo_61,18,Legal and Tax assistance,www.ngo_61.com,108,Chicago Heights,41.509998,-87.610001,IL,60411
+20062,ngo_62,6,LGBT,www.ngo_62.com,106,North Chicago,42.330002,-87.860001,IL,60064
+20063,ngo_63,15,Housing and Homeless,www.ngo_63.com,106,North Chicago,42.330002,-87.860001,IL,60064
+20064,ngo_64,18,Legal and Tax assistance,www.ngo_64.com,111,South San Francisco,37.650002,-122.43,CA,94080
+20065,ngo_65,3,Community & Environment,www.ngo_65.com,102,New York,40.75,-73.989998,NY,10001
+20066,ngo_66,4,Family wellness,www.ngo_66.com,110,Chicago,41.880001,-87.620003,IL,60290
+20067,ngo_67,7,Health & Wellbeing,www.ngo_67.com,101,West New York,40.790001,-74.010002,NJ,7093
+20068,ngo_68,4,Family wellness,www.ngo_68.com,104,East Chicago,41.639999,-87.459999,IN,46312
+20069,ngo_69,9,Sports & Recreation,www.ngo_69.com,107,West Chicago,41.889999,-88.199997,IL,60185
+20070,ngo_70,13,Veterans and Military,www.ngo_70.com,114,Baltimore,39.29,76.61,MD,21201
+20071,ngo_71,2,Career & Business,www.ngo_71.com,115,Gainesville,29.65,82.32,FL,32608
+20072,ngo_72,15,Housing and Homeless,www.ngo_72.com,102,New York,40.75,-73.989998,NY,10001
+20073,ngo_73,8,Book Clubs,www.ngo_73.com,109,Chicago Ridge,41.700001,-87.779999,IL,60415
+20074,ngo_74,13,Veterans and Military,www.ngo_74.com,109,Chicago Ridge,41.700001,-87.779999,IL,60415
+20075,ngo_75,6,LGBT,www.ngo_75.com,109,Chicago Ridge,41.700001,-87.779999,IL,60415
+20076,ngo_76,11,Children and Family,www.ngo_76.com,103,New York Mills,43.099998,-75.290001,NY,13417
+20077,ngo_77,8,Book Clubs,www.ngo_77.com,103,New York Mills,43.099998,-75.290001,NY,13417
+20078,ngo_78,18,Legal and Tax assistance,www.ngo_78.com,108,Chicago Heights,41.509998,-87.610001,IL,60411
+20079,ngo_79,13,Veterans and Military,www.ngo_79.com,102,New York,40.75,-73.989998,NY,10001
+20080,ngo_80,6,LGBT,www.ngo_80.com,105,New York Mills,46.689999,-95.349998,MN,56567
+20081,ngo_81,6,LGBT,www.ngo_81.com,110,Chicago,41.880001,-87.620003,IL,60290
+20082,ngo_82,9,Sports & Recreation,www.ngo_82.com,107,West Chicago,41.889999,-88.199997,IL,60185
+20083,ngo_83,17,Employment,www.ngo_83.com,108,Chicago Heights,41.509998,-87.610001,IL,60411
+20084,ngo_84,13,Veterans and Military,www.ngo_84.com,111,South San Francisco,37.650002,-122.43,CA,94080
+20085,ngo_85,14,Food,www.ngo_85.com,109,Chicago Ridge,41.700001,-87.779999,IL,60415
+20086,ngo_86,1,Arts & Culture,www.ngo_86.com,104,East Chicago,41.639999,-87.459999,IN,46312
+20087,ngo_87,6,LGBT,www.ngo_87.com,113,Chicago Park,39.16,-120.959999,CA,95712
+20088,ngo_88,17,Employment,www.ngo_88.com,113,Chicago Park,39.16,-120.959999,CA,95712
+20089,ngo_89,18,Legal and Tax assistance,www.ngo_89.com,110,Chicago,41.880001,-87.620003,IL,60290
+20090,ngo_90,14,Food,www.ngo_90.com,101,West New York,40.790001,-74.010002,NJ,7093
+20091,ngo_91,13,Veterans and Military,www.ngo_91.com,105,New York Mills,46.689999,-95.349998,MN,56567
+20092,ngo_92,12,Substance Misuse,www.ngo_92.com,108,Chicago Heights,41.509998,-87.610001,IL,60411
+20093,ngo_93,9,Sports & Recreation,www.ngo_93.com,115,Gainesville,29.65,82.32,FL,32608
+20094,ngo_94,13,Veterans and Military,www.ngo_94.com,105,New York Mills,46.689999,-95.349998,MN,56567
+20095,ngo_95,10,Technical education,www.ngo_95.com,106,North Chicago,42.330002,-87.860001,IL,60064
+20096,ngo_96,9,Sports & Recreation,www.ngo_96.com,112,San Francisco,37.779999,-122.419998,CA,94101
+20097,ngo_97,14,Food,www.ngo_97.com,103,New York Mills,43.099998,-75.290001,NY,13417
+20098,ngo_98,9,Sports & Recreation,www.ngo_98.com,108,Chicago Heights,41.509998,-87.610001,IL,60411
+20099,ngo_99,4,Family wellness,www.ngo_99.com,104,East Chicago,41.639999,-87.459999,IN,46312

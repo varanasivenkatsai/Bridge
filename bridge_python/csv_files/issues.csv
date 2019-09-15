@@ -1,0 +1,201 @@
+issue_id,issue_name,issue_cause_id,issue_cause,issue_city_id,issue_city,issue_lat,issue_lon,issue_state,issue_zip,issue_description
+50000,issue_0,17,Employment,105,New York Mills,46.689999,-95.349998,MN,56567,issue_description0
+50001,issue_1,1,Arts & Culture,102,New York,40.75,-73.989998,NY,10001,issue_description1
+50002,issue_2,3,Community & Environment,101,West New York,40.790001,-74.010002,NJ,7093,issue_description2
+50003,issue_3,1,Arts & Culture,106,North Chicago,42.330002,-87.860001,IL,60064,issue_description3
+50004,issue_4,13,Veterans and Military,101,West New York,40.790001,-74.010002,NJ,7093,issue_description4
+50005,issue_5,6,LGBT,112,San Francisco,37.779999,-122.419998,CA,94101,issue_description5
+50006,issue_6,7,Health & Wellbeing,113,Chicago Park,39.16,-120.959999,CA,95712,issue_description6
+50007,issue_7,12,Substance Misuse,107,West Chicago,41.889999,-88.199997,IL,60185,issue_description7
+50008,issue_8,17,Employment,113,Chicago Park,39.16,-120.959999,CA,95712,issue_description8
+50009,issue_9,18,Legal and Tax assistance,101,West New York,40.790001,-74.010002,NJ,7093,issue_description9
+50010,issue_10,19,Senior citizens,109,Chicago Ridge,41.700001,-87.779999,IL,60415,issue_description10
+50011,issue_11,12,Substance Misuse,107,West Chicago,41.889999,-88.199997,IL,60185,issue_description11
+50012,issue_12,9,Sports & Recreation,115,Gainesville,29.65,82.32,FL,32608,issue_description12
+50013,issue_13,14,Food,111,South San Francisco,37.650002,-122.43,CA,94080,issue_description13
+50014,issue_14,1,Arts & Culture,114,Baltimore,39.29,76.61,MD,21201,issue_description14
+50015,issue_15,4,Family wellness,107,West Chicago,41.889999,-88.199997,IL,60185,issue_description15
+50016,issue_16,4,Family wellness,104,East Chicago,41.639999,-87.459999,IN,46312,issue_description16
+50017,issue_17,7,Health & Wellbeing,103,New York Mills,43.099998,-75.290001,NY,13417,issue_description17
+50018,issue_18,9,Sports & Recreation,106,North Chicago,42.330002,-87.860001,IL,60064,issue_description18
+50019,issue_19,11,Children and Family,103,New York Mills,43.099998,-75.290001,NY,13417,issue_description19
+50020,issue_20,11,Children and Family,112,San Francisco,37.779999,-122.419998,CA,94101,issue_description20
+50021,issue_21,11,Children and Family,114,Baltimore,39.29,76.61,MD,21201,issue_description21
+50022,issue_22,6,LGBT,106,North Chicago,42.330002,-87.860001,IL,60064,issue_description22
+50023,issue_23,20,People with Disabilities,110,Chicago,41.880001,-87.620003,IL,60290,issue_description23
+50024,issue_24,3,Community & Environment,114,Baltimore,39.29,76.61,MD,21201,issue_description24
+50025,issue_25,11,Children and Family,115,Gainesville,29.65,82.32,FL,32608,issue_description25
+50026,issue_26,15,Housing and Homeless,106,North Chicago,42.330002,-87.860001,IL,60064,issue_description26
+50027,issue_27,1,Arts & Culture,103,New York Mills,43.099998,-75.290001,NY,13417,issue_description27
+50028,issue_28,20,People with Disabilities,101,West New York,40.790001,-74.010002,NJ,7093,issue_description28
+50029,issue_29,2,Career & Business,114,Baltimore,39.29,76.61,MD,21201,issue_description29
+50030,issue_30,17,Employment,103,New York Mills,43.099998,-75.290001,NY,13417,issue_description30
+50031,issue_31,3,Community & Environment,109,Chicago Ridge,41.700001,-87.779999,IL,60415,issue_description31
+50032,issue_32,20,People with Disabilities,101,West New York,40.790001,-74.010002,NJ,7093,issue_description32
+50033,issue_33,9,Sports & Recreation,103,New York Mills,43.099998,-75.290001,NY,13417,issue_description33
+50034,issue_34,5,Education & Learning,111,South San Francisco,37.650002,-122.43,CA,94080,issue_description34
+50035,issue_35,5,Education & Learning,112,San Francisco,37.779999,-122.419998,CA,94101,issue_description35
+50036,issue_36,2,Career & Business,104,East Chicago,41.639999,-87.459999,IN,46312,issue_description36
+50037,issue_37,14,Food,115,Gainesville,29.65,82.32,FL,32608,issue_description37
+50038,issue_38,1,Arts & Culture,105,New York Mills,46.689999,-95.349998,MN,56567,issue_description38
+50039,issue_39,11,Children and Family,101,West New York,40.790001,-74.010002,NJ,7093,issue_description39
+50040,issue_40,15,Housing and Homeless,111,South San Francisco,37.650002,-122.43,CA,94080,issue_description40
+50041,issue_41,2,Career & Business,112,San Francisco,37.779999,-122.419998,CA,94101,issue_description41
+50042,issue_42,7,Health & Wellbeing,112,San Francisco,37.779999,-122.419998,CA,94101,issue_description42
+50043,issue_43,6,LGBT,104,East Chicago,41.639999,-87.459999,IN,46312,issue_description43
+50044,issue_44,2,Career & Business,113,Chicago Park,39.16,-120.959999,CA,95712,issue_description44
+50045,issue_45,8,Book Clubs,101,West New York,40.790001,-74.010002,NJ,7093,issue_description45
+50046,issue_46,6,LGBT,109,Chicago Ridge,41.700001,-87.779999,IL,60415,issue_description46
+50047,issue_47,13,Veterans and Military,102,New York,40.75,-73.989998,NY,10001,issue_description47
+50048,issue_48,18,Legal and Tax assistance,101,West New York,40.790001,-74.010002,NJ,7093,issue_description48
+50049,issue_49,17,Employment,111,South San Francisco,37.650002,-122.43,CA,94080,issue_description49
+50050,issue_50,7,Health & Wellbeing,113,Chicago Park,39.16,-120.959999,CA,95712,issue_description50
+50051,issue_51,6,LGBT,105,New York Mills,46.689999,-95.349998,MN,56567,issue_description51
+50052,issue_52,12,Substance Misuse,108,Chicago Heights,41.509998,-87.610001,IL,60411,issue_description52
+50053,issue_53,7,Health & Wellbeing,109,Chicago Ridge,41.700001,-87.779999,IL,60415,issue_description53
+50054,issue_54,11,Children and Family,106,North Chicago,42.330002,-87.860001,IL,60064,issue_description54
+50055,issue_55,19,Senior citizens,103,New York Mills,43.099998,-75.290001,NY,13417,issue_description55
+50056,issue_56,11,Children and Family,107,West Chicago,41.889999,-88.199997,IL,60185,issue_description56
+50057,issue_57,13,Veterans and Military,104,East Chicago,41.639999,-87.459999,IN,46312,issue_description57
+50058,issue_58,10,Technical education,104,East Chicago,41.639999,-87.459999,IN,46312,issue_description58
+50059,issue_59,5,Education & Learning,113,Chicago Park,39.16,-120.959999,CA,95712,issue_description59
+50060,issue_60,11,Children and Family,104,East Chicago,41.639999,-87.459999,IN,46312,issue_description60
+50061,issue_61,13,Veterans and Military,110,Chicago,41.880001,-87.620003,IL,60290,issue_description61
+50062,issue_62,11,Children and Family,110,Chicago,41.880001,-87.620003,IL,60290,issue_description62
+50063,issue_63,20,People with Disabilities,108,Chicago Heights,41.509998,-87.610001,IL,60411,issue_description63
+50064,issue_64,2,Career & Business,104,East Chicago,41.639999,-87.459999,IN,46312,issue_description64
+50065,issue_65,5,Education & Learning,112,San Francisco,37.779999,-122.419998,CA,94101,issue_description65
+50066,issue_66,14,Food,112,San Francisco,37.779999,-122.419998,CA,94101,issue_description66
+50067,issue_67,4,Family wellness,107,West Chicago,41.889999,-88.199997,IL,60185,issue_description67
+50068,issue_68,1,Arts & Culture,114,Baltimore,39.29,76.61,MD,21201,issue_description68
+50069,issue_69,2,Career & Business,108,Chicago Heights,41.509998,-87.610001,IL,60411,issue_description69
+50070,issue_70,7,Health & Wellbeing,107,West Chicago,41.889999,-88.199997,IL,60185,issue_description70
+50071,issue_71,14,Food,113,Chicago Park,39.16,-120.959999,CA,95712,issue_description71
+50072,issue_72,15,Housing and Homeless,102,New York,40.75,-73.989998,NY,10001,issue_description72
+50073,issue_73,18,Legal and Tax assistance,114,Baltimore,39.29,76.61,MD,21201,issue_description73
+50074,issue_74,9,Sports & Recreation,114,Baltimore,39.29,76.61,MD,21201,issue_description74
+50075,issue_75,5,Education & Learning,108,Chicago Heights,41.509998,-87.610001,IL,60411,issue_description75
+50076,issue_76,13,Veterans and Military,106,North Chicago,42.330002,-87.860001,IL,60064,issue_description76
+50077,issue_77,7,Health & Wellbeing,108,Chicago Heights,41.509998,-87.610001,IL,60411,issue_description77
+50078,issue_78,15,Housing and Homeless,110,Chicago,41.880001,-87.620003,IL,60290,issue_description78
+50079,issue_79,2,Career & Business,110,Chicago,41.880001,-87.620003,IL,60290,issue_description79
+50080,issue_80,17,Employment,113,Chicago Park,39.16,-120.959999,CA,95712,issue_description80
+50081,issue_81,11,Children and Family,108,Chicago Heights,41.509998,-87.610001,IL,60411,issue_description81
+50082,issue_82,10,Technical education,106,North Chicago,42.330002,-87.860001,IL,60064,issue_description82
+50083,issue_83,10,Technical education,103,New York Mills,43.099998,-75.290001,NY,13417,issue_description83
+50084,issue_84,15,Housing and Homeless,111,South San Francisco,37.650002,-122.43,CA,94080,issue_description84
+50085,issue_85,18,Legal and Tax assistance,106,North Chicago,42.330002,-87.860001,IL,60064,issue_description85
+50086,issue_86,18,Legal and Tax assistance,112,San Francisco,37.779999,-122.419998,CA,94101,issue_description86
+50087,issue_87,4,Family wellness,111,South San Francisco,37.650002,-122.43,CA,94080,issue_description87
+50088,issue_88,8,Book Clubs,107,West Chicago,41.889999,-88.199997,IL,60185,issue_description88
+50089,issue_89,10,Technical education,109,Chicago Ridge,41.700001,-87.779999,IL,60415,issue_description89
+50090,issue_90,8,Book Clubs,101,West New York,40.790001,-74.010002,NJ,7093,issue_description90
+50091,issue_91,18,Legal and Tax assistance,115,Gainesville,29.65,82.32,FL,32608,issue_description91
+50092,issue_92,5,Education & Learning,115,Gainesville,29.65,82.32,FL,32608,issue_description92
+50093,issue_93,18,Legal and Tax assistance,104,East Chicago,41.639999,-87.459999,IN,46312,issue_description93
+50094,issue_94,15,Housing and Homeless,108,Chicago Heights,41.509998,-87.610001,IL,60411,issue_description94
+50095,issue_95,17,Employment,109,Chicago Ridge,41.700001,-87.779999,IL,60415,issue_description95
+50096,issue_96,3,Community & Environment,110,Chicago,41.880001,-87.620003,IL,60290,issue_description96
+50097,issue_97,8,Book Clubs,107,West Chicago,41.889999,-88.199997,IL,60185,issue_description97
+50098,issue_98,17,Employment,105,New York Mills,46.689999,-95.349998,MN,56567,issue_description98
+50099,issue_99,1,Arts & Culture,103,New York Mills,43.099998,-75.290001,NY,13417,issue_description99
+50100,issue_100,15,Housing and Homeless,114,Baltimore,39.29,76.61,MD,21201,issue_description100
+50101,issue_101,2,Career & Business,110,Chicago,41.880001,-87.620003,IL,60290,issue_description101
+50102,issue_102,11,Children and Family,106,North Chicago,42.330002,-87.860001,IL,60064,issue_description102
+50103,issue_103,9,Sports & Recreation,114,Baltimore,39.29,76.61,MD,21201,issue_description103
+50104,issue_104,17,Employment,103,New York Mills,43.099998,-75.290001,NY,13417,issue_description104
+50105,issue_105,7,Health & Wellbeing,107,West Chicago,41.889999,-88.199997,IL,60185,issue_description105
+50106,issue_106,12,Substance Misuse,102,New York,40.75,-73.989998,NY,10001,issue_description106
+50107,issue_107,20,People with Disabilities,106,North Chicago,42.330002,-87.860001,IL,60064,issue_description107
+50108,issue_108,7,Health & Wellbeing,105,New York Mills,46.689999,-95.349998,MN,56567,issue_description108
+50109,issue_109,17,Employment,107,West Chicago,41.889999,-88.199997,IL,60185,issue_description109
+50110,issue_110,2,Career & Business,109,Chicago Ridge,41.700001,-87.779999,IL,60415,issue_description110
+50111,issue_111,19,Senior citizens,108,Chicago Heights,41.509998,-87.610001,IL,60411,issue_description111
+50112,issue_112,19,Senior citizens,103,New York Mills,43.099998,-75.290001,NY,13417,issue_description112
+50113,issue_113,16,Utility Assistance,105,New York Mills,46.689999,-95.349998,MN,56567,issue_description113
+50114,issue_114,7,Health & Wellbeing,108,Chicago Heights,41.509998,-87.610001,IL,60411,issue_description114
+50115,issue_115,9,Sports & Recreation,110,Chicago,41.880001,-87.620003,IL,60290,issue_description115
+50116,issue_116,10,Technical education,104,East Chicago,41.639999,-87.459999,IN,46312,issue_description116
+50117,issue_117,11,Children and Family,103,New York Mills,43.099998,-75.290001,NY,13417,issue_description117
+50118,issue_118,17,Employment,111,South San Francisco,37.650002,-122.43,CA,94080,issue_description118
+50119,issue_119,14,Food,110,Chicago,41.880001,-87.620003,IL,60290,issue_description119
+50120,issue_120,4,Family wellness,103,New York Mills,43.099998,-75.290001,NY,13417,issue_description120
+50121,issue_121,3,Community & Environment,113,Chicago Park,39.16,-120.959999,CA,95712,issue_description121
+50122,issue_122,19,Senior citizens,115,Gainesville,29.65,82.32,FL,32608,issue_description122
+50123,issue_123,8,Book Clubs,112,San Francisco,37.779999,-122.419998,CA,94101,issue_description123
+50124,issue_124,4,Family wellness,109,Chicago Ridge,41.700001,-87.779999,IL,60415,issue_description124
+50125,issue_125,19,Senior citizens,103,New York Mills,43.099998,-75.290001,NY,13417,issue_description125
+50126,issue_126,15,Housing and Homeless,106,North Chicago,42.330002,-87.860001,IL,60064,issue_description126
+50127,issue_127,6,LGBT,103,New York Mills,43.099998,-75.290001,NY,13417,issue_description127
+50128,issue_128,17,Employment,111,South San Francisco,37.650002,-122.43,CA,94080,issue_description128
+50129,issue_129,4,Family wellness,113,Chicago Park,39.16,-120.959999,CA,95712,issue_description129
+50130,issue_130,11,Children and Family,103,New York Mills,43.099998,-75.290001,NY,13417,issue_description130
+50131,issue_131,11,Children and Family,108,Chicago Heights,41.509998,-87.610001,IL,60411,issue_description131
+50132,issue_132,2,Career & Business,115,Gainesville,29.65,82.32,FL,32608,issue_description132
+50133,issue_133,8,Book Clubs,105,New York Mills,46.689999,-95.349998,MN,56567,issue_description133
+50134,issue_134,15,Housing and Homeless,113,Chicago Park,39.16,-120.959999,CA,95712,issue_description134
+50135,issue_135,12,Substance Misuse,112,San Francisco,37.779999,-122.419998,CA,94101,issue_description135
+50136,issue_136,10,Technical education,106,North Chicago,42.330002,-87.860001,IL,60064,issue_description136
+50137,issue_137,12,Substance Misuse,103,New York Mills,43.099998,-75.290001,NY,13417,issue_description137
+50138,issue_138,12,Substance Misuse,101,West New York,40.790001,-74.010002,NJ,7093,issue_description138
+50139,issue_139,13,Veterans and Military,115,Gainesville,29.65,82.32,FL,32608,issue_description139
+50140,issue_140,15,Housing and Homeless,107,West Chicago,41.889999,-88.199997,IL,60185,issue_description140
+50141,issue_141,3,Community & Environment,109,Chicago Ridge,41.700001,-87.779999,IL,60415,issue_description141
+50142,issue_142,9,Sports & Recreation,113,Chicago Park,39.16,-120.959999,CA,95712,issue_description142
+50143,issue_143,8,Book Clubs,101,West New York,40.790001,-74.010002,NJ,7093,issue_description143
+50144,issue_144,15,Housing and Homeless,112,San Francisco,37.779999,-122.419998,CA,94101,issue_description144
+50145,issue_145,8,Book Clubs,101,West New York,40.790001,-74.010002,NJ,7093,issue_description145
+50146,issue_146,15,Housing and Homeless,106,North Chicago,42.330002,-87.860001,IL,60064,issue_description146
+50147,issue_147,20,People with Disabilities,109,Chicago Ridge,41.700001,-87.779999,IL,60415,issue_description147
+50148,issue_148,3,Community & Environment,111,South San Francisco,37.650002,-122.43,CA,94080,issue_description148
+50149,issue_149,5,Education & Learning,106,North Chicago,42.330002,-87.860001,IL,60064,issue_description149
+50150,issue_150,5,Education & Learning,114,Baltimore,39.29,76.61,MD,21201,issue_description150
+50151,issue_151,20,People with Disabilities,104,East Chicago,41.639999,-87.459999,IN,46312,issue_description151
+50152,issue_152,12,Substance Misuse,106,North Chicago,42.330002,-87.860001,IL,60064,issue_description152
+50153,issue_153,16,Utility Assistance,115,Gainesville,29.65,82.32,FL,32608,issue_description153
+50154,issue_154,13,Veterans and Military,111,South San Francisco,37.650002,-122.43,CA,94080,issue_description154
+50155,issue_155,10,Technical education,113,Chicago Park,39.16,-120.959999,CA,95712,issue_description155
+50156,issue_156,11,Children and Family,105,New York Mills,46.689999,-95.349998,MN,56567,issue_description156
+50157,issue_157,11,Children and Family,102,New York,40.75,-73.989998,NY,10001,issue_description157
+50158,issue_158,7,Health & Wellbeing,112,San Francisco,37.779999,-122.419998,CA,94101,issue_description158
+50159,issue_159,20,People with Disabilities,107,West Chicago,41.889999,-88.199997,IL,60185,issue_description159
+50160,issue_160,11,Children and Family,106,North Chicago,42.330002,-87.860001,IL,60064,issue_description160
+50161,issue_161,9,Sports & Recreation,103,New York Mills,43.099998,-75.290001,NY,13417,issue_description161
+50162,issue_162,20,People with Disabilities,105,New York Mills,46.689999,-95.349998,MN,56567,issue_description162
+50163,issue_163,20,People with Disabilities,108,Chicago Heights,41.509998,-87.610001,IL,60411,issue_description163
+50164,issue_164,10,Technical education,109,Chicago Ridge,41.700001,-87.779999,IL,60415,issue_description164
+50165,issue_165,4,Family wellness,112,San Francisco,37.779999,-122.419998,CA,94101,issue_description165
+50166,issue_166,3,Community & Environment,104,East Chicago,41.639999,-87.459999,IN,46312,issue_description166
+50167,issue_167,2,Career & Business,111,South San Francisco,37.650002,-122.43,CA,94080,issue_description167
+50168,issue_168,16,Utility Assistance,110,Chicago,41.880001,-87.620003,IL,60290,issue_description168
+50169,issue_169,19,Senior citizens,113,Chicago Park,39.16,-120.959999,CA,95712,issue_description169
+50170,issue_170,19,Senior citizens,115,Gainesville,29.65,82.32,FL,32608,issue_description170
+50171,issue_171,20,People with Disabilities,110,Chicago,41.880001,-87.620003,IL,60290,issue_description171
+50172,issue_172,1,Arts & Culture,113,Chicago Park,39.16,-120.959999,CA,95712,issue_description172
+50173,issue_173,2,Career & Business,109,Chicago Ridge,41.700001,-87.779999,IL,60415,issue_description173
+50174,issue_174,15,Housing and Homeless,102,New York,40.75,-73.989998,NY,10001,issue_description174
+50175,issue_175,12,Substance Misuse,103,New York Mills,43.099998,-75.290001,NY,13417,issue_description175
+50176,issue_176,16,Utility Assistance,104,East Chicago,41.639999,-87.459999,IN,46312,issue_description176
+50177,issue_177,8,Book Clubs,114,Baltimore,39.29,76.61,MD,21201,issue_description177
+50178,issue_178,19,Senior citizens,115,Gainesville,29.65,82.32,FL,32608,issue_description178
+50179,issue_179,14,Food,109,Chicago Ridge,41.700001,-87.779999,IL,60415,issue_description179
+50180,issue_180,7,Health & Wellbeing,109,Chicago Ridge,41.700001,-87.779999,IL,60415,issue_description180
+50181,issue_181,8,Book Clubs,113,Chicago Park,39.16,-120.959999,CA,95712,issue_description181
+50182,issue_182,18,Legal and Tax assistance,111,South San Francisco,37.650002,-122.43,CA,94080,issue_description182
+50183,issue_183,3,Community & Environment,108,Chicago Heights,41.509998,-87.610001,IL,60411,issue_description183
+50184,issue_184,3,Community & Environment,105,New York Mills,46.689999,-95.349998,MN,56567,issue_description184
+50185,issue_185,16,Utility Assistance,107,West Chicago,41.889999,-88.199997,IL,60185,issue_description185
+50186,issue_186,6,LGBT,103,New York Mills,43.099998,-75.290001,NY,13417,issue_description186
+50187,issue_187,6,LGBT,103,New York Mills,43.099998,-75.290001,NY,13417,issue_description187
+50188,issue_188,5,Education & Learning,104,East Chicago,41.639999,-87.459999,IN,46312,issue_description188
+50189,issue_189,13,Veterans and Military,109,Chicago Ridge,41.700001,-87.779999,IL,60415,issue_description189
+50190,issue_190,10,Technical education,107,West Chicago,41.889999,-88.199997,IL,60185,issue_description190
+50191,issue_191,6,LGBT,113,Chicago Park,39.16,-120.959999,CA,95712,issue_description191
+50192,issue_192,1,Arts & Culture,112,San Francisco,37.779999,-122.419998,CA,94101,issue_description192
+50193,issue_193,7,Health & Wellbeing,102,New York,40.75,-73.989998,NY,10001,issue_description193
+50194,issue_194,7,Health & Wellbeing,110,Chicago,41.880001,-87.620003,IL,60290,issue_description194
+50195,issue_195,4,Family wellness,101,West New York,40.790001,-74.010002,NJ,7093,issue_description195
+50196,issue_196,18,Legal and Tax assistance,112,San Francisco,37.779999,-122.419998,CA,94101,issue_description196
+50197,issue_197,8,Book Clubs,109,Chicago Ridge,41.700001,-87.779999,IL,60415,issue_description197
+50198,issue_198,15,Housing and Homeless,108,Chicago Heights,41.509998,-87.610001,IL,60411,issue_description198
+50199,issue_199,8,Book Clubs,111,South San Francisco,37.650002,-122.43,CA,94080,issue_description199

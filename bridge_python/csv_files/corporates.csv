@@ -1,0 +1,51 @@
+corporate_id,corporate_name,corporate_cause_id,corporate_cause,corporate_city_id,corporate_city,corporate_lat,corporate_lon,corporate_state,corporate_zip
+40000,corporate_0,18,Legal and Tax assistance,115,Gainesville,29.65,82.32,FL,32608
+40001,corporate_1,14,Food,106,North Chicago,42.330002,-87.860001,IL,60064
+40002,corporate_2,14,Food,115,Gainesville,29.65,82.32,FL,32608
+40003,corporate_3,10,Technical education,104,East Chicago,41.639999,-87.459999,IN,46312
+40004,corporate_4,15,Housing and Homeless,110,Chicago,41.880001,-87.620003,IL,60290
+40005,corporate_5,6,LGBT,109,Chicago Ridge,41.700001,-87.779999,IL,60415
+40006,corporate_6,9,Sports & Recreation,112,San Francisco,37.779999,-122.419998,CA,94101
+40007,corporate_7,20,People with Disabilities,113,Chicago Park,39.16,-120.959999,CA,95712
+40008,corporate_8,9,Sports & Recreation,114,Baltimore,39.29,76.61,MD,21201
+40009,corporate_9,2,Career & Business,113,Chicago Park,39.16,-120.959999,CA,95712
+40010,corporate_10,13,Veterans and Military,105,New York Mills,46.689999,-95.349998,MN,56567
+40011,corporate_11,20,People with Disabilities,110,Chicago,41.880001,-87.620003,IL,60290
+40012,corporate_12,1,Arts & Culture,107,West Chicago,41.889999,-88.199997,IL,60185
+40013,corporate_13,8,Book Clubs,105,New York Mills,46.689999,-95.349998,MN,56567
+40014,corporate_14,16,Utility Assistance,108,Chicago Heights,41.509998,-87.610001,IL,60411
+40015,corporate_15,19,Senior citizens,109,Chicago Ridge,41.700001,-87.779999,IL,60415
+40016,corporate_16,4,Family wellness,114,Baltimore,39.29,76.61,MD,21201
+40017,corporate_17,5,Education & Learning,102,New York,40.75,-73.989998,NY,10001
+40018,corporate_18,6,LGBT,113,Chicago Park,39.16,-120.959999,CA,95712
+40019,corporate_19,10,Technical education,104,East Chicago,41.639999,-87.459999,IN,46312
+40020,corporate_20,20,People with Disabilities,103,New York Mills,43.099998,-75.290001,NY,13417
+40021,corporate_21,19,Senior citizens,113,Chicago Park,39.16,-120.959999,CA,95712
+40022,corporate_22,15,Housing and Homeless,108,Chicago Heights,41.509998,-87.610001,IL,60411
+40023,corporate_23,13,Veterans and Military,114,Baltimore,39.29,76.61,MD,21201
+40024,corporate_24,12,Substance Misuse,111,South San Francisco,37.650002,-122.43,CA,94080
+40025,corporate_25,15,Housing and Homeless,113,Chicago Park,39.16,-120.959999,CA,95712
+40026,corporate_26,6,LGBT,110,Chicago,41.880001,-87.620003,IL,60290
+40027,corporate_27,11,Children and Family,115,Gainesville,29.65,82.32,FL,32608
+40028,corporate_28,10,Technical education,112,San Francisco,37.779999,-122.419998,CA,94101
+40029,corporate_29,19,Senior citizens,104,East Chicago,41.639999,-87.459999,IN,46312
+40030,corporate_30,3,Community & Environment,105,New York Mills,46.689999,-95.349998,MN,56567
+40031,corporate_31,8,Book Clubs,101,West New York,40.790001,-74.010002,NJ,7093
+40032,corporate_32,1,Arts & Culture,107,West Chicago,41.889999,-88.199997,IL,60185
+40033,corporate_33,14,Food,110,Chicago,41.880001,-87.620003,IL,60290
+40034,corporate_34,12,Substance Misuse,115,Gainesville,29.65,82.32,FL,32608
+40035,corporate_35,1,Arts & Culture,103,New York Mills,43.099998,-75.290001,NY,13417
+40036,corporate_36,20,People with Disabilities,103,New York Mills,43.099998,-75.290001,NY,13417
+40037,corporate_37,8,Book Clubs,110,Chicago,41.880001,-87.620003,IL,60290
+40038,corporate_38,18,Legal and Tax assistance,101,West New York,40.790001,-74.010002,NJ,7093
+40039,corporate_39,20,People with Disabilities,109,Chicago Ridge,41.700001,-87.779999,IL,60415
+40040,corporate_40,2,Career & Business,106,North Chicago,42.330002,-87.860001,IL,60064
+40041,corporate_41,3,Community & Environment,112,San Francisco,37.779999,-122.419998,CA,94101
+40042,corporate_42,3,Community & Environment,114,Baltimore,39.29,76.61,MD,21201
+40043,corporate_43,13,Veterans and Military,107,West Chicago,41.889999,-88.199997,IL,60185
+40044,corporate_44,11,Children and Family,108,Chicago Heights,41.509998,-87.610001,IL,60411
+40045,corporate_45,9,Sports & Recreation,110,Chicago,41.880001,-87.620003,IL,60290
+40046,corporate_46,6,LGBT,114,Baltimore,39.29,76.61,MD,21201
+40047,corporate_47,13,Veterans and Military,105,New York Mills,46.689999,-95.349998,MN,56567
+40048,corporate_48,11,Children and Family,106,North Chicago,42.330002,-87.860001,IL,60064
+40049,corporate_49,9,Sports & Recreation,112,San Francisco,37.779999,-122.419998,CA,94101
