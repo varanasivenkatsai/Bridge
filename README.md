@@ -1,4 +1,4 @@
-# bridge
+# Bridge
 
  Winner: Best Hack for Social Good track (JP Morgan) at HopHacks 2019. 
  
@@ -10,6 +10,25 @@
  Backend : Neo4j for graph database creating, analysis and visualization; Cypher query language for developing various features; Python was used for designing the framework and as an interface between Neo4j and frontend.
 
  Frontend : Android studio + Realtime database hosted on Firebase ; Google maps API on the mobile App
+ 
+## Front-end
+Features:
+1.authentication for NGO, Volunteer, Corporate seperately
+2.Registration page
+3.Maps page for interactive suggestions based on location
+4.Suggestions page for graph driven "closest neighbour" based suggestions and option to connect with them
+5.Raise and issue page to reporting any active issues which can then be viewed by other users in suggestions page.
+
+Here is some examples of the front-end android app
+![Login](/App-examples/Login-page.jpg)
+![I2](/App-examples/Main-page.jpg)
+![I3](/App-examples/maps-1.jpg)
+![I4](/App-examples/suggestions-1.jpg)
+![I5](/App-examples/issue.jpg)
 
 
- This repository includes backend files of our project. I will be updating the repository with front end related files later. 
+
+
+
+
+
