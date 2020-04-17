@@ -24,7 +24,9 @@ Here is some examples of the front-end android app
 ![Login](/App-examples/Login-page.jpg)
 ![I2](/App-examples/Main-page.jpg)
 ![I3](/App-examples/maps-1.jpg)
+![I6](/App-examples/maps-2.jpg)
 ![I4](/App-examples/suggestions-1.jpg)
+![I7](/App-examples/suggestions-2.jpg)
 ![I5](/App-examples/issue.jpg)
 
 
