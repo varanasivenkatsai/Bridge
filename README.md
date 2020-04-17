@@ -13,7 +13,8 @@
  
 ## Front-end
 Features:
-1.authentication for NGO, Volunteer, Corporate seperately
+
+1.Authentication for NGO, Volunteer, Corporate seperately
 2.Registration page
 3.Maps page for interactive suggestions based on location
 4.Suggestions page for graph driven "closest neighbour" based suggestions and option to connect with them
