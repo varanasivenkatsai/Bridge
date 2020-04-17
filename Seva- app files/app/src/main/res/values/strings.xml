@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Seva</string>
+    <string name="title_activity_main5">Main5Activity</string>
+    <string name="title_activity_main6">Main6Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>

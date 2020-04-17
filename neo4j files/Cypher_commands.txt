@@ -1,0 +1,166 @@
+//seva-users
+LOAD CSV WITH HEADERS FROM "file:///users.csv" AS line
+CREATE (u:users)
+SET u += line
+
+//seva-ngo
+LOAD CSV WITH HEADERS FROM "file:///ngo.csv" AS line
+CREATE (n:npo)
+SET n += line
+
+
+//seva-corporate
+LOAD CSV WITH HEADERS FROM "file:///corporates.csv" AS line
+CREATE (cs:corporate_sponsors)
+SET cs += line
+
+//seva-events
+LOAD CSV WITH HEADERS FROM "file:///events.csv" AS line
+CREATE (e:events)
+SET e += line
+
+//seva-cause
+LOAD CSV WITH HEADERS FROM "file:///causes.csv" AS line
+CREATE (ca:causes)
+SET ca += line
+
+//seva-cities
+LOAD CSV WITH HEADERS FROM "file:///cities.csv" AS line
+CREATE (ci:cities)
+SET ci += line
+
+//seva-issues
+LOAD CSV WITH HEADERS FROM "file:///issues.csv" AS line
+CREATE (i:issues)
+SET i += line
+
+//seva-constraint causes
+CREATE CONSTRAINT ON (c:causes) ASSERT c.cause_id is UNIQUE
+
+
+//seva-constraint cities
+CREATE CONSTRAINT ON (c:cities) ASSERT c.city_id is UNIQUE
+
+
+//seva-constraint corporate
+CREATE CONSTRAINT ON (c:corporate_sponsors) ASSERT c.corporate_id is UNIQUE
+
+
+//seva-constraint events
+CREATE CONSTRAINT ON (c:events) ASSERT c.event_id is UNIQUE
+
+
+//seva-constraint issues
+CREATE CONSTRAINT ON (c:issues) ASSERT c.issue_id is UNIQUE
+
+
+//seva-constraint npo
+CREATE CONSTRAINT ON (c:npo) ASSERT c.ngo_id is UNIQUE
+
+
+//seva-constraint users
+CREATE CONSTRAINT ON (c:users) ASSERT c.user_id is UNIQUE
+
+
+//seva-user-issue-support
+USING PERIODIC COMMIT 500
+LOAD CSV WITH HEADERS FROM "file:///user_issue_support.csv" AS line
+OPTIONAL MATCH (n:users {user_id: line.user_id}),(ic:issues {issue_id: line.issue_id})
+CREATE (n)-[:SUPPORTS_ISSUE]->(ic)
+
+//seva-user-issue-creator
+USING PERIODIC COMMIT 500
+LOAD CSV WITH HEADERS FROM "file:///user_issue_creator.csv" AS line
+OPTIONAL MATCH (n:users {user_id: line.user_id}),(ic:issues {issue_id: line.issue_id})
+CREATE (n)-[:CREATED_ISSUE]->(ic)
+
+//seva-issues-causes
+USING PERIODIC COMMIT 500
+LOAD CSV WITH HEADERS FROM "file:///issues.csv" AS line
+OPTIONAL MATCH (n:issues {issue_id: line.issue_id}),(ic:causes {cause_id: line.issue_cause_id})
+CREATE (n)-[:BELONGS_TO]->(ic)
+
+//seva-users-causes
+USING PERIODIC COMMIT 500
+LOAD CSV WITH HEADERS FROM "file:///users.csv" AS line
+OPTIONAL MATCH (n:users {user_id: line.user_id}),(ic:causes {cause_id: line.user_cause_id})
+CREATE (n)-[:SUPPORTS_CAUSE]->(ic)
+
+//seva-ngo-causes
+USING PERIODIC COMMIT 500
+LOAD CSV WITH HEADERS FROM "file:///ngo.csv" AS line
+OPTIONAL MATCH (n:npo {ngo_id: line.ngo_id}),(ic:causes {cause_id: line.ngo_cause_id})
+CREATE (n)-[:SUPPORTS_CAUSE]->(ic)
+
+//seva-corporates-causes
+USING PERIODIC COMMIT 500
+LOAD CSV WITH HEADERS FROM "file:///corporates.csv" AS line
+OPTIONAL MATCH (n:corporate_sponsors {corporate_id: line.corporate_id}),(ic:causes {cause_id: line.corporate_cause_id})
+CREATE (n)-[:SUPPORTS_CAUSE]->(ic)
+
+
+//seva-event-causes
+USING PERIODIC COMMIT 500
+LOAD CSV WITH HEADERS FROM "file:///events.csv" AS line
+OPTIONAL MATCH (n:events {event_id: line.ngo_id}),(ic:causes {cause_id: line.event_cause_id})
+CREATE (n)-[:BELONGS_TO]->(ic)
+
+
+//seva-issues-cities
+USING PERIODIC COMMIT 500
+LOAD CSV WITH HEADERS FROM "file:///issues.csv" AS line
+OPTIONAL MATCH (n:issues {issue_id: line.issue_id}),(ic:cities {city_id: line.issue_city_id})
+CREATE (n)-[:LOCATED_IN]->(ic)
+
+
+//seva-users-cities
+USING PERIODIC COMMIT 500
+LOAD CSV WITH HEADERS FROM "file:///users.csv" AS line
+OPTIONAL MATCH (n:users {user_id: line.user_id}),(ic:cities {city_id: line.user_city_id})
+CREATE (n)-[:LOCATED_IN]->(ic)
+
+//seva-ngo-cities
+USING PERIODIC COMMIT 500
+LOAD CSV WITH HEADERS FROM "file:///ngo.csv" AS line
+OPTIONAL MATCH (n:npo {ngo_id: line.ngo_id}),(ic:cities {city_id: line.ngo_city_id})
+CREATE (n)-[:LOCATED_IN]->(ic)
+
+
+//seva-corporates-cities
+USING PERIODIC COMMIT 500
+LOAD CSV WITH HEADERS FROM "file:///corporates.csv" AS line
+OPTIONAL MATCH (n:corporate_sponsors {corporate_id: line.corporate_id}),(ic:cities {city_id: line.corporate_city_id})
+CREATE (n)-[:LOCATED_IN]->(ic)
+
+//seva-ngo-corporate
+USING PERIODIC COMMIT 500
+LOAD CSV WITH HEADERS FROM "file:///ngo_corporate.csv" AS line
+OPTIONAL MATCH (n:corporate_sponsors {corporate_id: line.corporate_id}),(ic:npo {ngo_id: line.ngo_id})
+CREATE (n)-[:RELATED_TO {relation: line.type}]->(ic)
+
+//seva-ngo-event
+USING PERIODIC COMMIT 500
+LOAD CSV WITH HEADERS FROM "file:///ngo_event.csv" AS line
+OPTIONAL MATCH (n:npo {ngo_id: line.ngo_id}),(ic:events {event_id: line.event_id})
+CREATE (n)-[:ORGANIZED {relation: line.type}]->(ic)
+
+
+//seva-user-corporate
+USING PERIODIC COMMIT 500
+LOAD CSV WITH HEADERS FROM "file:///user_corporate.csv" AS line
+OPTIONAL MATCH (n:users {user_id: line.user_id}),(ic:corporate_sponsors {corporate_id: line.corporate_id})
+CREATE (n)-[:RELATED_TO {relation: line.role}]->(ic)
+
+//seva-user-events
+USING PERIODIC COMMIT 500
+LOAD CSV WITH HEADERS FROM "file:///user_events.csv" AS line
+OPTIONAL MATCH (n:users {user_id: line.user_id}),(ic:events {event_id: line.event_id})
+CREATE (n)-[:FOLLOWS {relation: line.decision}]->(ic)
+
+//seva-user-ngo
+USING PERIODIC COMMIT 500
+LOAD CSV WITH HEADERS FROM "file:///user_ngo.csv" AS line
+OPTIONAL MATCH (n:users {user_id: line.user_id}),(ic:npo {ngo_id: line.ngo_id})
+CREATE (n)-[:FOLLOWS {relation: line.role}]->(ic)
+
+

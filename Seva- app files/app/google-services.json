@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "677114123559",
+    "firebase_url": "https://seva-4928f.firebaseio.com",
+    "project_id": "seva-4928f",
+    "storage_bucket": "seva-4928f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677114123559:android:d5bddef3a8fd80d8ea8502",
+        "android_client_info": {
+          "package_name": "com.hack.seva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677114123559-5rc8gp6opcu940algdtmvrko8s6var4k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hack.seva",
+            "certificate_hash": "0c13321d090ee13b44d24d24ccd1d3a4e9030f91"
+          }
+        },
+        {
+          "client_id": "677114123559-70126pdtg11p363gprb4nolsm6u8h9o8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACmQty9oxPx5mkhRhh-XVPF3bSWOxYcz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677114123559-70126pdtg11p363gprb4nolsm6u8h9o8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
